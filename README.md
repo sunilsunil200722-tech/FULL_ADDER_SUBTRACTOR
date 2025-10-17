@@ -46,7 +46,7 @@ Developed by: Sunil kumar R Register number : 25013786
 <img width="832" height="220" alt="image" src="https://github.com/user-attachments/assets/42d0f3e0-8ce5-4bc4-b844-acd6f5b84957" />
 <img width="671" height="226" alt="image" src="https://github.com/user-attachments/assets/dcfec8c5-41cc-4f57-89f4-43f2d30a419d" />
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by:Sunil Kumar R RegisterNumber: 25013786
 */
 
 **RTL Schematic**
